@@ -1,0 +1,9 @@
+scipy
+matplotlib
+visdom
+torchsummary
+tensorboardX
+scikit-learn
+h5py
+einops
+conflictfree
